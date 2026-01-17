@@ -120,7 +120,7 @@ export const projects = [
     image: projectImg4,
     tech: ["React", "Tailwind CSS", "Framer Motion"],
     icons: [FaReact, FaCloud],
-    demo: "#",
+    demo: "https://varsha1898.github.io/Varsha-Portfolio/#/",
     code: "#",
   },
   {
